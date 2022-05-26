@@ -240,7 +240,6 @@ tr {
       background: linear-gradient(to bottom, #008000 0%, #006400 100%);
      } 
     .span-btn {
-    <style>.animado{animation:pulse 1s infinite;}
       text-decoration: none;
       -webkit-font-smoothing: antialiased; 
       text-align: center;
@@ -258,7 +257,6 @@ tr {
       font-weight: bold; 
       text-shadow: #000000 0px 1px 0px;
       text-decoration: none;
-      </style>
     }
 
     .span-btn2 {
